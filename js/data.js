@@ -1,9 +1,4 @@
-/*
-Treehouse Techdegree:
-FSJS Project 2 - Data Pagination and Filtering
-*/
-
-// Array of student objects
+// ARRAY FROM TEAM TREEHOUSE
 const data = [
   {
     name: {
